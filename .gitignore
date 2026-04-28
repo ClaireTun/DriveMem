@@ -28,3 +28,14 @@ pretrained/
 wandb/
 *.so
 mmcv/
+
+# MMCV compiled files
+*.so
+*.pyd
+*.dll
+*.dylib
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc

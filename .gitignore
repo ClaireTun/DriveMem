@@ -26,3 +26,5 @@ datasets/
 checkpoints/
 pretrained/
 wandb/
+*.so
+mmcv/
